@@ -1,6 +1,6 @@
 
 # Uber Clone
--
+
 Este é um clone do aplicativo Uber desenvolvido em React Native, Expo e Firebase. O objetivo deste projeto é demonstrar a criação de um aplicativo de transporte similar ao Uber, utilizando tecnologias modernas para o desenvolvimento mobile.
 
 ## Tecnologias Utilizadas
